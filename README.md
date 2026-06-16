@@ -25,23 +25,6 @@ This project replaces a scattered set of slides and docs with a single, navigabl
 | 📋 التقديم (Submit) | Final deliverables checklist |
 
 
-## Features
-
-- **Fully responsive** — works on desktop and mobile, with a sticky horizontal-scroll navigation bar
-- **RTL-native** — built ground-up for Arabic content with proper `dir="rtl"` handling
-- **Interactive tabs** — switchable panels for audience data and customer personas (Sara, Adam, Dina)
-- **Branded design system** — custom black-and-yellow visual identity with CSS custom properties (design tokens) for easy theming
-- **Zero dependencies** — pure HTML/CSS/JS, no frameworks or build tools
-
-## Tech Stack
-
-- **HTML5** — semantic structure
-- **CSS3** — custom properties, flexbox/grid layouts, keyframe animations (e.g. steam animation)
-- **Vanilla JavaScript** — tab and persona panel switching
-- **Google Fonts** — Playfair Display, Inter, DM Mono
-
-
-
 ## Project Structure
 
 ```
