@@ -38,20 +38,6 @@ This project replaces a scattered set of slides and docs with a single, navigabl
     └── packaged-orders.jpeg
 ```
 
-## Customization
-
-Brand colors and core design tokens are defined as CSS variables at the top of the stylesheet (`:root`), making it straightforward to re-theme the page for a different brand:
-
-```css
-:root {
-  --espresso: #111111;
-  --amber:    #f5e600;
-  --honey:    #fff04d;
-  --cream:    #fffde8;
-  ...
-}
-```
-
 ## License
 
 This project is intended for internal/educational use. Add a license of your choice (e.g. MIT) if you plan to distribute it publicly.
