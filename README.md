@@ -24,20 +24,6 @@ This project replaces a scattered set of slides and docs with a single, navigabl
 | 👥 التيم (Team) | Marketing team and roles |
 | 📋 التقديم (Submit) | Final deliverables checklist |
 
-## Gallery
-
-A look at 9 Coffee in real life — the space, the products, and the packaging the brand identity in this workspace is built around.
-
-<table>
-  <tr>
-    <td><img src="./assets/cafe-interior.jpeg" width="100%" alt="9 Coffee cafe interior"/><br/><sub>Cafe interior — seating area</sub></td>
-    <td><img src="./assets/drinks-and-candy.jpeg" width="100%" alt="9 Coffee branded drinks"/><br/><sub>Branded drinks on the table</sub></td>
-  </tr>
-  <tr>
-    <td><img src="./assets/candy-mix-bag.jpeg" width="100%" alt="9 Coffee branded candy bag"/><br/><sub>Branded candy mix packaging</sub></td>
-    <td><img src="./assets/packaged-orders.jpeg" width="100%" alt="9 Coffee packaged orders"/><br/><sub>Packaged orders ready for pickup</sub></td>
-  </tr>
-</table>
 
 ## Features
 
@@ -54,22 +40,7 @@ A look at 9 Coffee in real life — the space, the products, and the packaging t
 - **Vanilla JavaScript** — tab and persona panel switching
 - **Google Fonts** — Playfair Display, Inter, DM Mono
 
-## Getting Started
 
-No installation needed — this is a static, self-contained HTML file.
-
-```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
-open 9coffee-workspace.html   # or just double-click the file
-```
-
-Alternatively, serve it locally:
-
-```bash
-python3 -m http.server 8000
-# then visit http://localhost:8000/9coffee-workspace.html
-```
 
 ## Project Structure
 
